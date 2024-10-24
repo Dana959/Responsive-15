@@ -1,0 +1,10 @@
+
+.text-carousel-container {
+    border: 3px solid red;
+    width: 500px;
+    height: 30px;
+}
+
+.texto {   
+    column-count: 3;
+}
